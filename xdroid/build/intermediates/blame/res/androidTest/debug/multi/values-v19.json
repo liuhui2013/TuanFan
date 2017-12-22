@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 329
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 329
+                    }
+                }
+            }
+        ]
+    }
+]

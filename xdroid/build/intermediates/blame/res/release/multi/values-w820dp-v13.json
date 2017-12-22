@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\d05e9c6296b987ede4e9bf95db1c3b2ed4b38078\\output\\res\\values-w820dp\\values-w820dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 57,
+                        "endOffset": 244
+                    }
+                }
+            }
+        ]
+    }
+]

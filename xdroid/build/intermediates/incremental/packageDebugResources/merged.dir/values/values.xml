@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentText">#ffffff</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorPrimary">#727272</color>
+    <color name="colorPrimaryDark">#505050</color>
+    <color name="contentLayoutBg">#f0eff5</color>
+    <color name="headerLayoutBg">#24262e</color>
+    <color name="itemSelectedColor">#e8e8e8</color>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="AutoTabLayout"><attr format="boolean" name="auto_textSize_base_width"/></declare-styleable>
+    <declare-styleable name="GVStylePlayer"><attr name="styles">
+            <flag name="Standar" value="0"/>
+            <flag name="InDetail" value="1"/>
+            <flag name="InDetailWithScrollable" value="2"/>
+            <flag name="InTable" value="3"/>
+            
+            <flag name="LiveStreaming" value="5"/>
+        </attr><attr format="reference" name="ulayout"/></declare-styleable>
+    <dimen name="statusBarHeight">44px</dimen>
+    <dimen name="titleActionBarWidth">120px</dimen>
+    <dimen name="titleBarHeight">88px</dimen>
+    <string name="app_name">XDroid</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/accentText</item>
+    </style>
+    <style name="DescriptionText" parent="AppTheme">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:maxLines">5</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="SimpleButtonStyle" parent="AppTheme">
+        <item name="android:background">@null</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffb710</item>
+    </style>
+</resources>

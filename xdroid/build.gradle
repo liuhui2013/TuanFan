@@ -1,0 +1,188 @@
+apply plugin: 'com.android.library'
+apply plugin: 'me.tatarka.retrolambda'
+apply plugin: 'com.jakewharton.butterknife'
+apply plugin: 'com.github.dcendents.android-maven'
+apply plugin: "com.jfrog.bintray"
+
+def config = rootProject.extensions.getByName("ext")
+android {
+    compileSdkVersion config.android["compileSdkVer"]
+    buildToolsVersion config.android["buildToolsVer"]
+
+    defaultConfig {
+        minSdkVersion config.android["minSdkVer"]
+        targetSdkVersion config.android["targetSdkVer"]
+        versionCode 1
+        versionName "1.0"
+
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        ndk {
+            // set support so libs
+            abiFilters 'armeabi', 'arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64', 'mips', 'mips64'
+        }
+    }
+    sourceSets {
+        main.jniLibs.srcDirs = ['libs']
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+repositories {
+    flatDir { dirs 'libs', '../app/libs'}
+}
+buildscript {
+    repositories {
+        jcenter()
+    }
+}
+
+configurations {
+    all*.exclude  group: 'com.nineoldandroids'
+//    all*.exclude  group: 'com.squareup.leakcanary'
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
+    //support
+    compile config.dependencies["support-v4"]
+    compile config.dependencies["support-v13"]
+    compile config.dependencies["appcompat-v7"]
+    compile config.dependencies["recyclerview-v7"]
+    compile config.dependencies["cardview-v7"]
+    compile config.dependencies["annotations"]
+    compile config.dependencies["design"]
+    compile config.dependencies["constraint-layout"]
+    compile config.dependencies["multidex"]
+    androidTestCompile(config.dependencies["espresso-core"]) {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+    testCompile config.dependencies["junit"]
+    //view
+    compile(config.dependencies["autolayout"]) {
+        exclude group: 'com.android.support'
+    }
+    compile config.dependencies["butterknife"]
+    //    annotationProcessor config.dependencies["butterknife-compiler"]
+    compile config.dependencies["material-dialogs-core"]
+    compile config.dependencies["material-dialogs-com"]
+    compile config.dependencies["XRecyclerView"]
+    compile (config.dependencies["aviLoading"]){
+        exclude group: 'com.android.support'
+    }
+    compile config.dependencies["systembartint"]
+    compile config.dependencies["BaseQuickAdapter"]
+    compile config.dependencies["discreteSeekbar"]
+    compile (config.dependencies["ViewPagerIndicator"]){
+        exclude group: 'com.android.support'
+    }
+//    compile (config.dependencies["DraweeTextView"]){
+//            exclude module: 'fresco'
+//    }
+    compile config.dependencies["tagcloudview"]
+    compile config.dependencies["AndroidPickerView"]
+    //net
+    compile config.dependencies["okhttp3"]
+    compile config.dependencies["okhttp3-logging-interceptor"]
+    compile(config.dependencies["okgo"]) {
+        exclude group: 'com.com.squareup.okhttp3'
+    }
+    compile(config.dependencies["okrx2"]) {
+        exclude module: 'rxjava'
+        exclude module: 'rxandroid'
+    }
+    //image
+    compile config.dependencies["fresco"]
+    compile config.dependencies["fresco-animated-gif"]
+    compile config.dependencies["fresco-animated-webp"]
+    compile config.dependencies["fresco-webpsupport"]
+    compile config.dependencies["fresco-animated-base-support"]
+    compile config.dependencies["fresco-imagepipeline-okhttp3"]
+    compile config.dependencies["fresco-imagepipeline-okhttp3"]
+    compile (config.dependencies["frescoimageviewer"]){
+        exclude module: 'fresco'
+    }
+    compile config.dependencies["fresco-processors"]
+
+    compile (config.dependencies["glide"]){
+        exclude group: 'com.android.support'
+    }
+    annotationProcessor config.dependencies["glide-compiler"]
+    compile (config.dependencies["glide-okhttp3-integration"]){
+        exclude group: 'com.android.support'
+    }
+    compile (config.dependencies["glide-gifencoder-integration"]){
+        exclude group: 'com.android.support'
+    }
+    compile (config.dependencies["glide-recyclerview-integration"]){
+        exclude group: 'com.android.support'
+    }
+
+    compile config.dependencies["jp-gpuimage"]
+    compile (config.dependencies["jp-glide-transformations"]){
+        exclude group: 'com.android.support'
+    }
+    compile (config.dependencies["imagepicker"]){
+        exclude group: 'com.android.support'
+    }
+
+    //rx
+    compile config.dependencies["rxjava2"]
+    compile config.dependencies["rxandroid2"]
+    compile config.dependencies["rxlifecycle2"]
+    compile config.dependencies["rxlifecycle2-android"]
+    compile(config.dependencies["rxlifecycle2-components"]) {
+        exclude group: 'com.android.support'
+    }
+    compile(config.dependencies["rxpermissions2"]) {
+        exclude group: 'com.android.support'
+    }
+    compile(config.dependencies["rxerrorhandler2"]) {
+        exclude group: 'com.android.support'
+    }
+    compile(config.dependencies["rxbinding2"]) {
+        exclude module: 'rxjava'
+        exclude module: 'rxandroid'
+    }
+    compile(config.dependencies["rxbroadcast2"]) {
+        exclude group: 'com.android.support'
+        exclude module: 'rxjava'
+        exclude module: 'rxandroid'
+    }
+
+    //media
+    //    compile config.dependencies["jaudiotagger"]
+    compile files('libs/jaudiotagger-2.2.6-SNAPSHOT.jar')
+    compile(config.dependencies["GSYVideoPlayer"]) {
+        exclude group: 'com.android.support'
+        exclude group: 'com.nineoldandroids'
+        exclude module: 'butterknife'
+        exclude module: 'leakcanary'
+
+//        exclude module: 'ijkplayer-java'
+    }
+
+    //qiniu
+    compile (config.dependencies["qiniudroidSdk"]){
+        exclude group: 'com.android.support'
+    }
+    compile config.dependencies["qiniuHappyDns"]
+
+    //kit tools
+    compile config.dependencies["eventbus"]
+    compile config.dependencies["logger"]
+    compile config.dependencies["gson"]
+    compile config.dependencies["leakcanary"]
+    compile config.dependencies["jodaTime"]
+}

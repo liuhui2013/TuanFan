@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\ic_arrow_white_24dp.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\ic_arrow_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\ic_arrow_white_24dp.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\ic_arrow_white_24dp.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

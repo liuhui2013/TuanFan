@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- autotablayout-->
+    <declare-styleable name="AutoTabLayout">
+        <attr name="auto_textSize_base_width" format="boolean"></attr>
+    </declare-styleable>
+
+    <!-- GVStylePlayer-->
+    <declare-styleable name="GVStylePlayer">
+        <attr name="styles">
+            <flag name="Standar" value="0"/>
+            <flag name="InDetail" value="1"/>
+            <flag name="InDetailWithScrollable" value="2"/>
+            <flag name="InTable" value="3"/>
+            <!--<flag name="NoUiConrol" value="4"/>-->
+            <flag name="LiveStreaming" value="5"/>
+        </attr>
+        <attr name="ulayout" format="reference" />
+    </declare-styleable>
+
+</resources>

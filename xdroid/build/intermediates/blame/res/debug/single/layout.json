@@ -1,0 +1,946 @@
+[
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_input_check.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_progress_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\layout\\video_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\image_viewer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4688ed3a7026ce5ef14cdf93786482ef1d39b0e9\\output\\res\\layout\\image_viewer.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\layout_base_act.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\layout_base_act.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\x_view_footer_load_more_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1c522f6cb276bd40aff53a885882354e3978278f\\output\\res\\layout\\x_view_footer_load_more_simple.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_input.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_custom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_multichoice.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_listitem.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\bsd_single_text_item_layout.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\bsd_single_text_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\44037f6b517aa7e401af7b05bd866aa83406d346\\output\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_progress.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_colorchooser.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad41b72d6f9d61b9ac8528667d5f38ea8ba7045\\output\\res\\layout\\md_dialog_colorchooser.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\item_tag.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d05e9c6296b987ede4e9bf95db1c3b2ed4b38078\\output\\res\\layout\\item_tag.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\view_image_overlay.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\view_image_overlay.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_list_check.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\bsd_single_text_item_layout.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\bsd_single_text_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_basic.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad26d639a5cde8ec47b122c0400bfa85277130f\\output\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_basic_check.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_input.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\quick_view_load_more.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c641434f26ab439e85d1fe7a3c10f4bf7b672815\\output\\res\\layout\\quick_view_load_more.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad26d639a5cde8ec47b122c0400bfa85277130f\\output\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\view_base_state.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\view_base_state.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\x_view_footer_load_more_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2d9cdeda040b1745b25a40e27b30f9d0c9c659eb\\output\\res\\layout\\x_view_footer_load_more_simple.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\44037f6b517aa7e401af7b05bd866aa83406d346\\output\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_volume_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\layout\\video_volume_dialog.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\layout\\video_layout_normal.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\quick_view_load_more.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\857eb56c8013f47e0a25fac57ef0a66abf90fce4\\output\\res\\layout\\quick_view_load_more.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\44037f6b517aa7e401af7b05bd866aa83406d346\\output\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_basic.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_camera_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\layout\\video_layout_normal.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\pop_folder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_camera_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\layout\\video_layout_custom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_crop.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\layout\\activity_image_crop.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad26d639a5cde8ec47b122c0400bfa85277130f\\output\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_preference_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1182481c54efc94883b6a2740792e907cf9ccb8a\\output\\res\\layout\\md_preference_custom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\bsd_container_layout.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\bsd_container_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_colorchooser.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1182481c54efc94883b6a2740792e907cf9ccb8a\\output\\res\\layout\\md_dialog_colorchooser.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_brightness.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\layout\\video_brightness.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_stub_titleframe.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\x_view_recycler_content_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1c522f6cb276bd40aff53a885882354e3978278f\\output\\res\\layout\\x_view_recycler_content_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad41b72d6f9d61b9ac8528667d5f38ea8ba7045\\output\\res\\layout\\md_stub_colorchooser_custom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\view_base_state.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\view_base_state.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_grid.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1182481c54efc94883b6a2740792e907cf9ccb8a\\output\\res\\layout\\md_stub_colorchooser_grid.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\44037f6b517aa7e401af7b05bd866aa83406d346\\output\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\view_base_loading.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\view_base_loading.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\gvp_empty_control_layout.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\gvp_empty_control_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_multichoice.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_stub_titleframe.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_actionbuttons.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading_dialog.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\layout_loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_list_check.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\x_view_recycler_content_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2d9cdeda040b1745b25a40e27b30f9d0c9c659eb\\output\\res\\layout\\x_view_recycler_content_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\view_image_overlay.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\view_image_overlay.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_actionbuttons.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\include_top_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad26d639a5cde8ec47b122c0400bfa85277130f\\output\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_standard.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\layout\\video_layout_standard.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_standard.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\layout\\video_layout_standard.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1182481c54efc94883b6a2740792e907cf9ccb8a\\output\\res\\layout\\md_stub_colorchooser_custom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_inputpref.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1182481c54efc94883b6a2740792e907cf9ccb8a\\output\\res\\layout\\md_stub_inputpref.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_inputpref.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad41b72d6f9d61b9ac8528667d5f38ea8ba7045\\output\\res\\layout\\md_stub_inputpref.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_brightness.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\layout\\video_brightness.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\include_top_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\gvp_empty_control_layout.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\gvp_empty_control_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_list.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_grid.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad41b72d6f9d61b9ac8528667d5f38ea8ba7045\\output\\res\\layout\\md_stub_colorchooser_grid.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\layout_base_frag.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\layout_base_frag.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_crop.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\layout\\activity_image_crop.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_custom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\image_viewer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\44828da4a0363be39738900526ffa46820e2f604\\output\\res\\layout\\image_viewer.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\layout\\video_layout_custom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_list.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\bsd_container_layout.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\bsd_container_layout.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\pop_folder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_volume_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\layout\\video_volume_dialog.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\234d68dc4a6ba20abfd4fd51b665c44ee22f8641\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_dialog_basic_check.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading_dialog.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\src\\main\\res\\layout\\layout_loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_listitem.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b54e9126a457da05201a33a2dddbfe1b4cab72c9\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_preview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_input_check.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_preference_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad41b72d6f9d61b9ac8528667d5f38ea8ba7045\\output\\res\\layout\\md_preference_custom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_simplelist_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad41b72d6f9d61b9ac8528667d5f38ea8ba7045\\output\\res\\layout\\md_simplelist_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\44037f6b517aa7e401af7b05bd866aa83406d346\\output\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_progress_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\layout\\video_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\view_base_loading.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\view_base_loading.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\layout_base_act.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\layout_base_act.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\item_tag.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d9cac668524e5be4698de4d526fa5c3850e6ff15\\output\\res\\layout\\item_tag.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_simplelist_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1182481c54efc94883b6a2740792e907cf9ccb8a\\output\\res\\layout\\md_simplelist_item.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad26d639a5cde8ec47b122c0400bfa85277130f\\output\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\layout\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_preview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\debug\\layout\\layout_base_frag.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\src\\main\\res\\layout\\layout_base_frag.xml"
+    }
+]

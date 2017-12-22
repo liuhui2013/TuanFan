@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="false">
+    <!--header layout-->
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/baseHeaderLayout"
+        android:orientation="vertical"
+        android:background="@color/headerLayoutBg">
+        <!--StatusBar-->
+        <View
+            android:id="@+id/baseStatusBar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/statusBarHeight"/>
+        <!--titleBar-->
+        <com.zhy.autolayout.AutoFrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/titleBarHeight"
+            android:orientation="horizontal"
+            android:id="@+id/baseTitleBar">
+            <com.zhy.autolayout.AutoFrameLayout
+                android:id="@+id/baseLeftAction"
+                android:layout_width="@dimen/titleActionBarWidth"
+                android:layout_height="match_parent"
+                android:layout_gravity="start|center_vertical"
+                android:clickable="true">
+                <ImageView
+                    android:id="@+id/baseLeftIcon"
+                    android:layout_width="40px"
+                    android:layout_height="40px"
+                    android:layout_gravity="center"
+                    android:src="@mipmap/ic_back"
+                    android:clickable="false"/>
+            </com.zhy.autolayout.AutoFrameLayout>
+
+            <TextView android:id="@+id/baseTitleTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginLeft="12px"
+                android:layout_marginRight="12px"
+                android:textColor="@android:color/white"
+                android:textSize="22px"
+                android:text="标题"/>
+
+            <com.zhy.autolayout.AutoFrameLayout
+                android:id="@+id/baseRightAction"
+                android:layout_width="@dimen/titleActionBarWidth"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:clickable="true"
+                android:visibility="gone">
+                <TextView
+                    android:id="@+id/baseRightTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="完成"
+                    android:textColor="@android:color/white"
+                    android:textSize="20px"
+                    android:clickable="false"
+                    android:visibility="gone"/>
+                <ImageView android:id="@+id/baseRightIcon"
+                    android:layout_width="40px"
+                    android:layout_height="40px"
+                    android:layout_gravity="center"
+                    android:clickable="false"
+                    android:visibility="gone"/>
+            </com.zhy.autolayout.AutoFrameLayout>
+        </com.zhy.autolayout.AutoFrameLayout>
+    </com.zhy.autolayout.AutoLinearLayout>
+    <!--content state-->
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/baseSwipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <cn.droidlover.xstatecontroller.XStateController
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/baseContentStateLayout"
+            android:background="#f0eff5">
+        </cn.droidlover.xstatecontroller.XStateController>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</com.zhy.autolayout.AutoLinearLayout>

@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\hide_to_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\anim\\hide_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pickerview_dialog_scale_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\anim\\pickerview_dialog_scale_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pickerview_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\anim\\pickerview_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pickerview_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\anim\\pickerview_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pickerview_dialog_scale_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\anim\\pickerview_dialog_scale_in.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pickerview_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\anim\\pickerview_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pickerview_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\anim\\pickerview_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\hide_to_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\anim\\hide_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\show_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pickerview_dialog_scale_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\anim\\pickerview_dialog_scale_in.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pickerview_dialog_scale_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\anim\\pickerview_dialog_scale_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\top_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\anim\\top_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\top_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\anim\\top_out.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\top_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\anim\\top_in.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\show_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\top_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\anim\\top_in.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\anim\\fade_in.xml"
+    }
+]

@@ -1,0 +1,222 @@
+
+allprojects {
+	repositories {
+		jcenter()
+	}
+}
+
+ext {
+
+	android = [
+			compileSdkVer			: 26,
+			buildToolsVer			: "26.0.1",
+			minSdkVer			: 16,
+			targetSdkVer			: 22,
+			versionCode			: 1,
+			versionName			: "1.0"
+	]
+
+
+	version = [
+	                //suport
+			androidSupportVer			: "+",
+			constraintlayoutVer			: "+",
+			espressoVer				: "+",
+
+			//plugin & app
+			leakcanaryVer				: "+",
+			freelineVer				: "+",
+			arouterVer				: "+",
+
+			//bind
+			butterknifeVer				: "+",
+			dagger2Ver				: "+",
+
+			//view
+			autolayoutVer				: "+",
+			systembartintVer			: "1.+",
+			materialdialogsVer			: "0.+",
+			XRecyclerViewVer			: "v1.2.1",
+			XStateControllerVer			: "v1.1.1",
+			BaseQuickAdapterVer			: "+",
+			ViewPagerIndicatorVer			: "+",
+			DraweeTextViewVer			: "+",
+			RickTextVer            			: "+",
+			tagcloudviewVer				: "1.0.2",
+			AndroidPickerViewVer			: "+",
+
+	
+
+			//rx
+			rxandroid2Ver				: "+",
+			rxjava2Ver				: "+",
+			rxlifecycle2Ver				: "+",
+			rxbinding2Ver				: "+",
+			rxpermissions2Ver			: "+",
+			rxbroadcast2Ver				: "+",
+			rxerrorhandler2Ver			: "+",
+
+			//net
+			okhttp3Ver				: "+",
+			okioVer					: "+",
+			okgoVer					: "+",
+			okrxVer					: "+",
+			retrofitVer				: "+",
+			//image
+			frescoVer				: "+",
+			glideVer				: "+",
+
+			frescoimageviewerVer                    : "0.5.0",
+			imagepickerVer				: "+",
+
+			//media
+			jaudiotaggerVer				: "+",
+			GSYVideoPlayerVer			: "+",
+			
+			//qiniu
+			qiniudroidSdkVer			: "+",
+			qiniuHappyDnsVer			: "+",
+
+			//kit
+			RxToolsVer				: "+",
+			eventbusVer				: "+",
+			ottoVer					: "+",
+			gsonVer					: "+",
+			loggerVer				: "+",
+			junitVer				: "4.12",
+			SpannyVer               		: "+",
+			phraseVer				: "+",
+			ColorPhraseVer 				: "+",
+			jodaTimeVer            			: "+",
+
+	]
+
+	dependencies = [
+			//support
+			"support-v4"				: "com.android.support:support-v4:${version["androidSupportVer"]}",
+			"appcompat-v7"				: "com.android.support:appcompat-v7:${version["androidSupportVer"]}",
+			"support-v13"				: "com.android.support:support-v13:${version["androidSupportVer"]}",
+
+			"recyclerview-v7"			: "com.android.support:recyclerview-v7:${version["androidSupportVer"]}",
+			"cardview-v7"				: "com.android.support:cardview-v7:${version["androidSupportVer"]}",
+			"annotations"				: "com.android.support:support-annotations:${version["androidSupportVer"]}",
+			"design"				: "com.android.support:design:${version["androidSupportVer"]}",
+			"espresso-core"				: "com.android.support.test.espresso:espresso-core:${version["espressoVer"]}",
+			"espresso-contrib"			: "com.android.support.test.espresso:espresso-contrib:${version["espressoVer"]}",
+			"espresso-intents"			: "com.android.support.test.espresso:espresso-intents:${version["espressoVer"]}",
+			"constraint-layout"			: "com.android.support.constraint:constraint-layout:${version["constraintlayoutVer"]}",
+			"multidex"				: "com.android.support:multidex:1.0.1",
+			//"multidex-instrumentation"		: "com.android.support:multidex-instrumentation:1.0.1",
+
+			//app
+			"arouter"				: "com.alibaba:arouter-api:${version["arouterVer"]}",
+			"arouter-compiler"			: "com.alibaba:arouter-compiler:${version["arouterVer"]}",
+
+			//network
+			"okhttp3"				: "com.squareup.okhttp3:okhttp:${version["okhttp3Ver"]}",
+			"okhttp3-logging-interceptor"		: "com.squareup.okhttp3:logging-interceptor:${version["okhttp3Ver"]}",
+			"okio"					: "com.squareup.okio:okio:${version["okioVer"]}",
+			"retrofit"				: "com.squareup.retrofit2:retrofit:${version["retrofitVer"]}",
+			"retrofit-converter-gson"		: "com.squareup.retrofit2:converter-gson:${version["retrofitVer"]}",
+			"retrofit-adapter-rxjava"		: "com.squareup.retrofit2:adapter-rxjava:${version["retrofitVer"]}",
+			"retrofit-adapter-rxjava2"		: "com.squareup.retrofit2:adapter-rxjava2:${version["retrofitVer"]}",
+			"okgo"					: "com.lzy.net:okgo:${version["okgoVer"]}",
+			"okrx2"					: "com.lzy.net:okrx2:${version["okrxVer"]}",
+
+			//view
+			"autolayout"				: "com.zhy:autolayout:${version["autolayoutVer"]}",
+			"butterknife"				: "com.jakewharton:butterknife:${version["butterknifeVer"]}",
+			"butterknife-compiler"			: "com.jakewharton:butterknife-compiler:${version["butterknifeVer"]}",
+			"dagger2"				: "com.google.dagger:dagger:${version["dagger2Ver"]}",
+			"dagger2-compiler"			: "com.google.dagger:dagger-compiler:${version["dagger2Ver"]}",
+			"numberprogressbar"			: "com.daimajia.numberprogressbar:library:1.2@aar",
+			//"nineoldandroids"			: "com.nineoldandroids:library:+",
+			"paginate"				: "com.github.markomilos:paginate:+",
+			"vlayout"				: "com.alibaba.android:vlayout:1.0.6@aar",
+			"material-dialogs-core"			: "com.afollestad.material-dialogs:core:${version["materialdialogsSdkV"]}",
+			"material-dialogs-com"			: "com.afollestad.material-dialogs:commons:${version["materialdialogsVer"]}",
+			"XStateController"			: "com.github.limedroid:XStateController:${version["XStateControllerVer"]}",
+			"XRecyclerView"				: "com.github.limedroid:ARecyclerView:${version["XRecyclerViewVer"]}",
+			"aviLoading"				: "com.wang.avi:library:1.+",
+			"systembartint"				: "com.readystatesoftware.systembartint:systembartint:${version["systembartintVer"]}",
+			"BaseQuickAdapter"			: "com.github.CymChad:BaseRecyclerViewAdapterHelper:${version["BaseQuickAdapterVer"]}",
+			"discreteSeekbar"			: "org.adw.library:discrete-seekbar:+",
+			"ViewPagerIndicator"			: "com.github.JakeWharton:ViewPagerIndicator:${version["ViewPagerIndicatorVer"]}",
+			"DraweeTextView"			: "com.github.Bilibili:drawee-text-view:${version["DraweeTextViewVer"]}",
+			"RickTextVer"				: "com.github.CarGuo:RickText:${version["RickTextVer"]}",
+			"tagcloudview"				: "com.github.kingideayou:tagcloudview:${version["tagcloudviewVer"]}",
+			"AndroidPickerView"             	: "com.contrarywind:Android-PickerView:${version["AndroidPickerViewVer"]}",
+
+
+			//rx2
+			"rxandroid2"				: "io.reactivex.rxjava2:rxandroid:${version["rxandroid2Ver"]}",
+			"rxjava2"				: "io.reactivex.rxjava2:rxjava:${version["rxjava2Ver"]}",
+			"rxlifecycle2"				: "com.trello.rxlifecycle2:rxlifecycle:${version["rxlifecycle2Ver"]}",
+			"rxlifecycle2-android"			: "com.trello.rxlifecycle2:rxlifecycle-android:${android["rxlifecycle2Ver"]}",
+			"rxlifecycle2-components"		: "com.trello.rxlifecycle2:rxlifecycle-components:${version["rxlifecycle2Ver"]}",
+			"rxcache2"				: "com.github.VictorAlbertos.RxCache:runtime:+",
+			"rxpermissions2"			: "com.tbruyelle.rxpermissions2:rxpermissions:${version["rxpermissions2Ver"]}",
+			"rxerrorhandler2"			: "me.jessyan:rxerrorhandler:${version["rxerrorhandler2Ver"]}",
+			"rxbinding2"				: "com.jakewharton.rxbinding2:rxbinding:${version["rxbinding2Ver"]}",
+			"rxbinding2-support-v4"			: "com.jakewharton.rxbinding:rxbinding-support-v4:${version["rxbinding2Ver"]}",
+			"rxbinding2-appcompat-v7"		: "com.jakewharton.rxbinding:rxbinding-appcompat-v7:${version["rxbinding2Ver"]}",
+			"rxbroadcast2"				: "com.cantrowitz:rxbroadcast:${version["rxbroadcast2Ver"]}",
+
+			//image
+			"fresco"                        	: "com.facebook.fresco:fresco:${version["frescoVer"]}",
+			"fresco-animated-gif"           	: "com.facebook.fresco:animated-gif:${version["frescoVer"]}",
+			"fresco-webpsupport"            	: "com.facebook.fresco:webpsupport:${version["frescoVer"]}",
+			"fresco-animated-webp"          	: "com.facebook.fresco:animated-webp:${version["frescoVer"]}",
+			"fresco-animated-base-support"  	: "com.facebook.fresco:animated-base-support:${version["frescoVer"]}",
+			"fresco-imagepipeline-okhttp3"  	: "com.facebook.fresco:imagepipeline-okhttp3:${version["frescoVer"]}",
+			"frescoimageviewer"             	: "com.github.stfalcon:frescoimageviewer:${version["frescoimageviewerVer"]}",
+			"fresco-processors"             	: "jp.wasabeef:fresco-processors:2.+",
+			
+			"glide"					: "com.github.bumptech.glide:glide:${version["glideVer"]}",
+			"glide-compiler"			: "com.github.bumptech.glide:compiler:${version["glideVer"]}",
+			"glide-okhttp3-integration"		: "com.github.bumptech.glide:okhttp3-integration:${version["glideVer"]}",
+			"glide-annotation"			: "com.github.bumptech.glide:annotation:${version["glideVer"]}",
+			"glide-gifencoder-integration"		: "com.github.bumptech.glide:gifencoder-integration:${version["glideVer"]}",
+			"glide-recyclerview-integration"	: "com.github.bumptech.glide:recyclerview-integration:${version["glideVer"]}",
+
+			"jp-glide-transformations"		: "jp.wasabeef:glide-transformations:3.+",
+			"jp-gpuimage"				: "jp.co.cyberagent.android.gpuimage:gpuimage-library:1.+",
+			"pickerview"				: "com.contrarywind:Android-PickerView:3.2.5",
+			"photoview"				: "com.github.chrisbanes.photoview:library:+",
+			"scale-imageview"			: "com.davemorrissey.labs:subsampling-scale-image-view:+",
+			"imagepicker"				: "com.lzy.widget:imagepicker:${version["imagepickerVer"]}",
+
+			//media
+			"jaudiotagger"				: "org.jaudiotagger:jaudiotagger:${version["jaudiotaggerVer"]}",
+			"GSYVideoPlayer"			: "com.shuyu:GSYVideoPlayer:${version["GSYVideoPlayerVer"]}",
+
+			//qiniu
+			"qiniudroidSdk"				: "com.qiniu:qiniu-android-sdk:${version["qiniudroidSdkVer"]}",
+			"qiniuHappyDns"				: "com.qiniu:happy-dns:${version["qiniuHappyDnsVer"]}",
+
+			//kit
+			"RxTools"				: "com.github.vondear:RxTools:${version["RxToolsVer"]}",
+			"eventbus"				: "org.greenrobot:eventbus:${version["eventbusVer"]}",
+			"otto"					: "com.squareup:otto:${version["ottoVer"]}",
+			"gson"					: "com.google.code.gson:gson:${version["gsonVer"]}",
+			"logger"				: "com.orhanobut:logger:${version["loggerVer"]}",
+			"arouter"				: "com.alibaba:arouter-api:${version["arouterVer"]}",
+			"arouter-compiler"			: "com.alibaba:arouter-compiler:${version["arouterVer"]}",
+			"leakcanary"				: "com.squareup.leakcanary:leakcanary-android:${version["leakcanaryVer"]}",
+			"leakcanary-no-op"			: "com.squareup.leakcanary:leakcanary-android-no-op:${version["leakcanaryVer"]}",
+			"freeline-gradle"			: "com.antfortune.freeline:gradle:${version["freelineVer"]}",
+			"freeline-runtime"			: "com.antfortune.freeline:runtime:${version["freelineVer"]}",
+			"freeline-runtime-no-op"		: "com.antfortune.freeline:runtime-no-op:${version["freelineVer"]}",
+			"Spanny"				: "com.binaryfork:spanny:${version["SpannyVer"]}",
+			"phrase"				: "com.squareup.phrase:phrase:${version["phraseVer"]}",
+			"ColorPhrase"				: "com.THEONE10211024:ColorPhrase:${version["ColorPhraseVer"]}",
+			"jodaTime"				: "joda-time:joda-time:${version["jodaTimeVer"]}",
+
+
+			//test
+			"junit"					: "junit:junit:${version["junitVer"]}",
+			"androidJUnitRunner"			: "android.support.test.runner.AndroidJUnitRunner",
+			"runner"				: "com.android.support.test:runner:0.5",
+
+	]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="headerLayoutBg">#24262e</color>
+    <color name="contentLayoutBg">#f0eff5</color>
+    <color name="itemSelectedColor">#e8e8e8</color>
+
+    <color name="colorPrimary">#727272</color>
+    <color name="colorPrimaryDark">#505050</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="accentText">#ffffff</color>
+
+</resources>

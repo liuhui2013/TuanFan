@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_click_pause_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_click_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_click_play_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_click_play_selector.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_arrow_back.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_folder_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\bg_folder_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_click_play_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_click_play_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_seek_thumb_pressed.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_seek_thumb_pressed.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_arrow_back.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\empty_drawable.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\empty_drawable.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_pre.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\bg_btn_pre.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_item_checked.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sample_footer_loading.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c641434f26ab439e85d1fe7a3c10f4bf7b672815\\output\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_nor.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\bg_btn_nor.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\55460776c96f600ae7946ab92e8e878c19688951\\output\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_selector.xml",
+        "source": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_vector_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\ic_vector_check.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_vector_delete.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\ic_vector_delete.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_back_press.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_seek_thumb_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_circle.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1182481c54efc94883b6a2740792e907cf9ccb8a\\output\\res\\drawable\\gray_circle.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_progress.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_image_folder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\bg_image_folder.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_default_image.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\ic_default_image.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_dis.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\bg_btn_dis.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_click_error_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_click_error_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_seek_thumb_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_title_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_title_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_pre.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\bg_btn_pre.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_vector_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\ic_vector_check.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_cover_shade.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\ic_cover_shade.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f2f64862c5f7268645ad6709398bd2e3b75d8432\\output\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\af3297d8adb3b895ef711dfb49dc2c35e2da8467\\output\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_dialog_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_seek_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_seek_progress.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d05e9c6296b987ede4e9bf95db1c3b2ed4b38078\\output\\res\\drawable\\tag_background.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\empty_drawable.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\empty_drawable.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_volume_progress_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_volume_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_click_pause_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_click_pause_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_top_ok.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_nor.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\bg_btn_nor.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_loading.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_dialog_progress_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_dialog_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_top_ok.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_item_checked.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_back_press.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_seek_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_seek_progress.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_dis.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\bg_btn_dis.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_cover_shade.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\ic_cover_shade.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad26d639a5cde8ec47b122c0400bfa85277130f\\output\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_progress.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\44037f6b517aa7e401af7b05bd866aa83406d346\\output\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69f38655218fda74cb2ec64ca26fa567bba0d07e\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_folder_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\bg_folder_item.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c641434f26ab439e85d1fe7a3c10f4bf7b672815\\output\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sample_footer_loading.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\857eb56c8013f47e0a25fac57ef0a66abf90fce4\\output\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\28430a8f88e0e17e6e0a97c9881bafb14523f658\\output\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_click_error_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_click_error_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_circle.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5ad41b72d6f9d61b9ac8528667d5f38ea8ba7045\\output\\res\\drawable\\gray_circle.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_seek_thumb_pressed.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_seek_thumb_pressed.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_image_folder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\bg_image_folder.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aae8b0b3727e153cf8f7635c0d615f57fb07b941\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d9cac668524e5be4698de4d526fa5c3850e6ff15\\output\\res\\drawable\\tag_background.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_volume_progress_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_volume_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c6b9fba94ead121bfffa861605e903dbcb20f8dc\\output\\res\\drawable\\video_loading.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\927c6686b1450e00f4af603384ad0bee29ff50f5\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b5d672f06bab97b3e83d9e1d721ed18a5105e9e2\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_dialog_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\857eb56c8013f47e0a25fac57ef0a66abf90fce4\\output\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dfb40ed40062218049d26772604958c59432f50a\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_title_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_title_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_vector_delete.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\ic_vector_delete.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_selector.xml",
+        "source": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_selector.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_default_image.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1dd09ebab6acc08fbefede3f90c461106f19b834\\output\\res\\drawable\\ic_default_image.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\894950050c9ce5e34cba028bae6e3fbd0d01b8fa\\output\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\video_dialog_progress_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dccc3826c6fb98f81f060f3c941d09e6ff0a2677\\output\\res\\drawable\\video_dialog_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b195b65049add3c79df02d6e2e97e70c5f84b57b\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\GZ\\Download\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b2bb8b4044c40a116087ccc8a63ddf1472bc46a8\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\GZ\\Git_lab\\TuanFan\\xdroid\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba47571714010952dce86916784d36d7e770f5b5\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    }
+]
